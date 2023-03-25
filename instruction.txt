@@ -1,0 +1,7 @@
+git status: Helps check the status of file uploaded
+
+git add . : Adds all files
+
+git commit -m "Commit message" : Puts Overviews
+
+git push : Pushes all files to github (version control)
