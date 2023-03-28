@@ -27,7 +27,7 @@ int main()
 
     //loop3
 
-    for(int i=1; i<100;i*2){
+    for(int i=2; i<100;i*=2){
         printf("answer is %d\n", i);
     }
     printf("done with the third loop as well");
