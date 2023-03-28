@@ -25,5 +25,12 @@ int main()
     }
     printf("completed both loops");
 
+    //loop3
+
+    for(int i=1; i<100;i*2){
+        printf("answer is %d\n", i);
+    }
+    printf("done with the third loop as well");
+
     return 0;
 }
